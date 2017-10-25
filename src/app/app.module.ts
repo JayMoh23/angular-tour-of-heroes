@@ -18,3 +18,9 @@ import { HeroDetailComponent} from './hero-detail.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+
+
+// document.addEventListener("DOMContentLoaded", function(event) {
+//   bootstrap(AppComponent);
+// });
